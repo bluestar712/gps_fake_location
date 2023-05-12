@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPS GHOST</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXJub2xkNzEyOTI5IiwiYSI6ImNrcWo2d2lqbzA4OWcydm42Z2ZuNWZza3UifQ.QhGXHmkcu3u5fkImeGMaPQ</string>
+</resources>
